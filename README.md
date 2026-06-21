@@ -9,7 +9,7 @@ Unity developer specializing in gameplay programming, systems design, tools, mul
 ## 🕹️ Featured Projects
 
 ### [Kitchen Chaos]
-![Project Banner]([docs/images/kitchen-chaos-banner.png))
+![Project Banner](docs/images/kitchen-chaos-banner.png)
 
 One-line pitch: A fast-paced, time-pressured cooking simulation where you chop, fry, plate, and deliver dishes before the orders — and the clock — get the better of you.
 
