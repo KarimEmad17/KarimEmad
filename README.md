@@ -79,4 +79,4 @@ Handled player interaction and object pickup/drop logic across multiple station 
 
 ## 📜 License
 
-Code samples in this repo are shared under the [MIT License](LICENSE) unless otherwise noted. Game assets, art, and audio are © [Your Name] and not licensed for reuse.
+Code samples in this repo are shared under the [MIT License](LICENSE) unless otherwise noted. Game assets, art, and audio are © Karim-Hashad and not licensed for reuse.
