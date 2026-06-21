@@ -1,6 +1,6 @@
-# 🎮 [Karim Hashad] — Game Developer Portfolio
+# 🎮 Karim Hashad — Game Developer Portfolio
 
-Unity developer specializing in [e.g. gameplay programming, systems design, tools, multiplayer]. This repo is a curated collection of my game projects, prototypes, and technical work.
+Unity developer specializing in gameplay programming, systems design, tools, multiplayer. This repo is a curated collection of my game projects, prototypes, and technical work.
 
 📧 [kareememad612005@gmail.com] · 💼 [www.linkedin.com/in/karim-hashad-a592b31bb]
 
