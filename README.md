@@ -1,22 +1,28 @@
-# 🎮 [Your Name] — Game Developer Portfolio
+# 🎮 [Karim Hashad] — Game Developer Portfolio
 
 Unity developer specializing in [e.g. gameplay programming, systems design, tools, multiplayer]. This repo is a curated collection of my game projects, prototypes, and technical work.
 
-📧 [your.email@example.com] · 🌐 [your-website.com] · 💼 [LinkedIn] · 🐦 [Twitter/X] · 🎥 [YouTube/Reel]
+📧 [kareememad612005@gmail.com] · 💼 [www.linkedin.com/in/karim-hashad-a592b31bb]
 
 ---
 
 ## 🕹️ Featured Projects
 
-### [Project Name 1]
+### [Kitchen Chaos]
 ![Project Banner](docs/images/project1-banner.png)
 
-**One-line pitch:** What the game is, in a single punchy sentence.
+One-line pitch: A fast-paced, time-pressured cooking simulation where you chop, fry, plate, and deliver dishes before the orders — and the clock — get the better of you.
 
-- **Engine/Tools:** Unity 2022 LTS, C#, [other tools]
-- **Role:** [e.g. Solo Developer / Gameplay Programmer / Tech Lead]
-- **Platform:** [PC / Mobile / WebGL]
-- **My contributions:** Core combat system, save/load architecture, enemy AI state machine
+Engine/Tools: Unity 2022 LTS, C#, State Machines, ScriptableObjects, UI/Audio Systems
+Role: Solo Developer
+Platform: PC
+My contributions:
+
+Designed and implemented the core cooking gameplay loop (chopping, frying, plating, trash/delivery stations)
+Built a state-machine-driven kitchen counter/appliance system using ScriptableObjects for data-driven recipes
+Implemented the dynamic order/recipe system with timed customer tickets and scoring
+Built UI systems (order tickets, game timer, pause/game-over screens) and integrated sound effects/music
+Handled player interaction and object pickup/drop logic across multiple station types
 
 🔗 [Play on itch.io](#) · [Watch Trailer](#) · [Source Code](#)
 
@@ -64,26 +70,6 @@ Unity developer specializing in [e.g. gameplay programming, systems design, tool
 **Version Control:** Git, Git LFS, Perforce
 **Other:** [Photon, Mirror, Addressables, DOTS/ECS, Mecanim, Cinemachine]
 
----
-
-## 📂 Repository Structure
-
-```
-portfolio/
-├── README.md
-├── projects/
-│   ├── project-1/        # Source samples, design docs, or links
-│   ├── project-2/
-│   └── project-3/
-├── prototypes/            # Game jam entries & quick prototypes
-├── docs/
-│   └── images/            # Screenshots, banners, gifs
-└── resume.pdf
-```
-
-> Note: Full Unity projects with binary/large assets are kept in separate repos (linked above) and referenced here, since this repo focuses on showcasing the work rather than hosting full builds.
-
----
 
 ## 📄 Resume
 
