@@ -24,7 +24,7 @@ Implemented the dynamic order/recipe system with timed customer tickets and scor
 Built UI systems (order tickets, game timer, pause/game-over screens) and integrated sound effects/music
 Handled player interaction and object pickup/drop logic across multiple station types
 
-🔗 [Play on itch.io](#) · [Watch Trailer](#) · [Source Code](#)
+🔗 [Play on itch.io](#) · [Watch Trailer](#) · [Source Code](#https://github.com/KarimEmad17/Kitchen-Chaos)
 
 ---
 
