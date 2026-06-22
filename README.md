@@ -2,7 +2,7 @@
 
 Unity developer specializing in gameplay programming, systems design, tools, multiplayer. This repo is a curated collection of my game projects, prototypes, and technical work.
 
-📧 [kareememad612005@gmail.com] · 💼 [www.linkedin.com/in/karim-hashad-a592b31bb]
+📧 [kareememad612005@gmail.com] · 💼 [LinkedIn](www.linkedin.com/in/karim-hashad-a592b31bb)
 
 ---
 
@@ -24,7 +24,7 @@ Implemented the dynamic order/recipe system with timed customer tickets and scor
 Built UI systems (order tickets, game timer, pause/game-over screens) and integrated sound effects/music
 Handled player interaction and object pickup/drop logic across multiple station types
 
-🔗 [Play on itch.io](#) · [Watch Trailer](#) · [Source Code](#https://github.com/KarimEmad17/Kitchen-Chaos)
+🔗 [Play on itch.io](#) · [Watch Trailer](#) · [Source Code](https://github.com/KarimEmad17/Kitchen-Chaos)
 
 ---
 
