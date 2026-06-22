@@ -28,8 +28,8 @@ Handled player interaction and object pickup/drop logic across multiple station 
 
 ---
 
-### [Project Name 2]
-![Project Banner](docs/images/project2-banner.png)
+### [Battle Field]
+![Project Banner](images/Battlefield.png)
 
 **One-line pitch:** ...
 
