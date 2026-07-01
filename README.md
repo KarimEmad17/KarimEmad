@@ -2,7 +2,7 @@
 
 Unity developer specializing in gameplay programming, systems design, tools, multiplayer. This repo is a curated collection of my game projects, prototypes, and technical work.
 
-📧 [kareememad612005@gmail.com] · 💼 [LinkedIn](www.linkedin.com/in/karim-hashad-a592b31bb)
+📧 [Email](kareememad612005@gmail.com) · 💼 [LinkedIn](www.linkedin.com/in/karim-hashad-a592b31bb)
 
 ---
 
